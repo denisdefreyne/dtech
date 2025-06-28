@@ -1,6 +1,6 @@
 # D★TECH
 
-A game engine for LÖVE. Mine. All mine.
+A game engine for [LÖVE](https://love2d.org/). Mine. All mine.
 
 This repository will be updated only sporadically. Consider it not actively maintained. But you are free to browse through it and take things from it as you wish.
 
